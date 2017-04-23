@@ -17,8 +17,8 @@ var argv = require('yargs')
 
 var path = require('path');
 var fs   = require('fs');
-var compile = require('sweet-core').compile;
-var NodeLoader = require('sweet-core/dist/node-loader').default;
+var compile = require('@sweet-js/core').compile;
+var NodeLoader = require('@sweet-js/core/dist/node-loader').default;
 var semver = require('semver');
 
 if (!semver.satisfies(process.version, '>=5.0.0')) {

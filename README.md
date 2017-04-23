@@ -6,10 +6,10 @@ For more information about Sweet in general and to read the documentation, see t
 
 # Getting started
 
-Install sweet-cli via npm:
+Install @sweet-js/cli via npm:
 
 ```sh
-$ npm install -g sweet-cli
+$ npm install -g @sweet-js/cli
 ```
 
 Write your sweet code:
