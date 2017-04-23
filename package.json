@@ -1,5 +1,5 @@
 {
-  "name": "sweet-cli",
+  "name": "@sweet-js/cli",
   "description": "Hygienic Macros for JavaScript",
   "bin": {
     "sjs": "bin/sjs.js"
