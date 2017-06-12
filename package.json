@@ -4,7 +4,7 @@
   "bin": {
     "sjs": "bin/sjs.js"
   },
-  "version": "3.0.9",
+  "version": "3.0.10",
   "engines": {
     "node": ">=7.0.0"
   },
